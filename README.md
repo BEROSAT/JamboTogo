@@ -12,7 +12,7 @@
   "id": "2",
   "name": "NW MAGAZINE TV",
   "description": "1502",
-  "live_url": ""https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
+  "live_url": "https://hls.newworldtv.com/nw-magazine/video/live.m3u8",
   "thumbnail": "https://od.lk/s/M18yODQ2Njc0MTBf/nwmagazine.png",
   "categorie": "SPORTS"
   },
